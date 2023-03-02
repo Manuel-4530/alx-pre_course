@@ -1,1 +1,2 @@
-echo "ALX school"   
+#!/bin/basho
+echo "ALX School"
